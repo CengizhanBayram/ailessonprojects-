@@ -14,7 +14,7 @@ from math import factorial
 
 # FERHAT KÜRKÇÜOĞLU 200316040
 # CENGİZHAN BAYRAM 200316066
-# Pyhton 3.9
+# Pyhton 3.11
 
 class NQueens(SearchProblem):
     def __init__(self, N, initial_state=None):
